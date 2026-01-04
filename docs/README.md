@@ -4,7 +4,7 @@ Welcome to the central hub for all OctoAcme Project Management documentation. Th
 
 ## Project Management Process Summary
 
-OctoAcme follows a structured, iterative project management approach built on five core principles: customer-first prioritization, iterative delivery of small increments, clear ownership through named Project Managers and Product Leads, data-informed decision-making, and psychological safety that encourages feedback and learning. The project lifecycle consists of five distinct phases—Initiation, Planning, Execution, Release, and Close &amp; Retrospective—each with specific deliverables and decision gates. Projects begin with a lightweight Project One-pager that captures the problem statement, SMART objectives, success metrics, stakeholders, timeline, risks, and resource needs. This artifact must receive stakeholder alignment and sponsor approval before moving into detailed planning, where the team creates a prioritized backlog with acceptance criteria, estimates scope, defines the Definition of Done, and identifies dependencies through a formal Risk Register.
+OctoAcme follows a structured, iterative project management approach built on five core principles: customer-first prioritization, iterative delivery of small increments, clear ownership through named Project Managers and Product Leads, data-informed decision-making, and psychological safety that encourages feedback and learning. The project lifecycle consists of five distinct phases—Initiation, Planning, Execution, Release, and Close & Retrospective—each with specific deliverables and decision gates. Projects begin with a lightweight Project One-pager that captures the problem statement, SMART objectives, success metrics, stakeholders, timeline, risks, and resource needs. This artifact must receive stakeholder alignment and sponsor approval before moving into detailed planning, where the team creates a prioritized backlog with acceptance criteria, estimates scope, defines the Definition of Done, and identifies dependencies through a formal Risk Register.
 
 During execution, teams operate with a disciplined rhythm that includes daily 15-minute standups focused on progress and blockers, weekly delivery syncs to review updates and flag risks, and sprint/milestone demos. Work flows through a project board with columns from Backlog to Done, supported by a Pull Request workflow that emphasizes small PRs (≤400 lines), automated CI testing and linting, and required peer approvals before merging. Quality is maintained through comprehensive testing including unit tests, integration tests, end-to-end smoke tests for critical flows, and security scanning, supplemented by manual QA when needed. Blocker escalation follows a three-tier structure: team-level triage in standups, PM escalation to Product Leads and dependent teams, and sponsor-level escalation for business-impacting issues.
 
@@ -17,10 +17,10 @@ Release management distinguishes between patch, minor, and major releases, each 
 - [Project Management Overview](octoacme-project-management-overview.md)
 - [Project Initiation Guide](octoacme-project-initiation.md)
 - [Project Planning](octoacme-project-planning.md)
-- [Execution &amp; Tracking](octoacme-execution-and-tracking.md)
-- [Risk Management &amp; Communication](octoacme-risks-and-communication.md)
-- [Release &amp; Deployment Guide](octoacme-release-and-deployment.md)
-- [Retrospective &amp; Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
 
 ## Contributing
